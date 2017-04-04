@@ -1,0 +1,6 @@
+C:\Users\gamze\Desktop\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe.config
+C:\Users\gamze\Desktop\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.exe
+C:\Users\gamze\Desktop\OnlineShopping\OnlineShopping\bin\Debug\OnlineShopping.pdb
+C:\Users\gamze\Desktop\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.csprojResolveAssemblyReference.cache
+C:\Users\gamze\Desktop\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.exe
+C:\Users\gamze\Desktop\OnlineShopping\OnlineShopping\obj\Debug\OnlineShopping.pdb
